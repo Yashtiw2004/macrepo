@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-cout<<"mu.cpp"<<endl;
+cout<<"mu.cp"<<endl;
 
     return 0;
 }
