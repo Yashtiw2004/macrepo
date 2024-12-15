@@ -4,7 +4,11 @@ using namespace std;
 int main() {
 
 cout<<"mu.cp"<<endl;
-cout<<"my name is yash "<<endl;
+
+
+
+cout<<"jai mata di"<<endl;
+
 
     return 0;
 }
